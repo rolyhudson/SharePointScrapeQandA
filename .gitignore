@@ -8,6 +8,7 @@ __pycache__/
 
 text/
 processed/
+pdf/
 
 # Distribution / packaging
 .Python
